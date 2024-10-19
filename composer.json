@@ -1,0 +1,25 @@
+{
+    "name": "burger/krig",
+    "autoload": {
+        "psr-4": {
+            "": "BurgerKrig/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Test\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Coop Teh",
+            "email": "v.milevskiy@coopteh.ru"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^11.4"
+    }
+}

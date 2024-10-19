@@ -1,0 +1,40 @@
+[
+    {
+        "fio": "Иванов",
+        "address": "Ленина 1",
+        "phone": "324",
+        "created_at": "27-03-2024 11:26:02",
+        "all_sum": 1010,
+        "products": [
+            {
+                "quantity": 2,
+                "name": "Гамбургер",
+                "price": 355,
+                "sum": 710
+            },
+            {
+                "quantity": 1,
+                "name": "Чикен Бургер",
+                "price": 300,
+                "sum": 300
+            }
+        ]
+    },
+    {
+        "fio": "TEST",
+        "email": "1234@mail.ru",
+        "address": "TEST 1",
+        "phone": "890000001234",
+        "created_at": "2024-04-17 11:09:57",
+        "all_sum": 355,
+        "products": [
+            {
+                "id": 2,
+                "name": "Чизбургер",
+                "quantity": 1,
+                "price": 355,
+                "sum": 355
+            }
+        ]
+    }
+]
